@@ -7,11 +7,14 @@
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 😄 I’m looking to collaborate on JavaScript, React, Vue, JAMstack, FullStack development.
 
-### More About Me
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+## More About Me
 
 Hi, I'm Sergio. I've a bachelor's degree on Civil Engineering. I worked as a Civil Engineer for over 6 years before a decided to make some professional changes. I started learning to code back in college creating very simple applications for career related topics. 
 
 I started learning web development on my free time and after some practice and learning I decided to make a complete turn and start working as a developer full time. 
+
 
 ## Blogging and Writing
 Apart from coding, I also mantain my personal blog/portfolio. You can find my articles on my website [sergiobarria.com]
@@ -37,9 +40,11 @@ Apart from coding, I also mantain my personal blog/portfolio. You can find my ar
 [![Strapi Badge](https://img.shields.io/badge/-strapi-8B71FD?style=for-the-badge&labelColor=black)](#) [![Contenful Badge](https://img.shields.io/badge/-contentful-F3DF21?style=for-the-badge&labelColor=black)](#) [![Sanity Badge](https://img.shields.io/badge/-sanity-E9544F?style=for-the-badge&labelColor=black)](#)
 
 
-## General Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiobarria&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiobarria&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## :chart_with_upwards_trend:General Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sergiobarria&theme=gotham&show_icons=true" alt="sergiobarria" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiobarria&layout=compact&theme=gotham" alt="sergiobarria" /> </p>
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiobarria&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiobarria&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Reach me out!:mailbox: 
 
