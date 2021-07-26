@@ -16,8 +16,13 @@ Hi, I'm Sergio. I've a bachelor's degree on Civil Engineering. I worked as a Civ
 I started learning web development on my free time and after some practice and learning I decided to make a complete turn and start working as a developer full time. 
 
 
-## Blogging and Writing
+## :inbox_tray:Blogging and Writing
 Apart from coding, I also mantain my personal blog/portfolio. You can find my articles on my website [sergiobarria.com]
+
+### Latest Posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
 ## Programming Languages and Tools I use
 
