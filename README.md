@@ -21,11 +21,11 @@ Apart from coding, I also mantain my personal blog/portfolio. You can find my ar
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to link and display your latest blog posts to your Github profile](https://www.sergiobarria.com/blog/how-to-link-and-display-your-latest-blog-post-to-your-github-profile)
 - [How to create and edit your Github profile](https://www.sergiobarria.com/blog/how-to-create-and-edit-your-github-profile)
 - [How to add RSS feed to Next.js site](https://www.sergiobarria.com/blog/how-to-add-rss-feed-to-next-js-site)
 - [My personal portfolio got some improvements](https://www.sergiobarria.com/blog/my-personal-portfolio-got-some-improvements)
 - [5 Common mistakes beginners make when learning to code](https://www.sergiobarria.com/blog/5-common-mistakes-beginners-make-when-learning-to-code)
-- [Back-End vs Front-End Web Development](https://www.sergiobarria.com/blog/back-end-vs-front-end-web-development)
 <!-- BLOG-POST-LIST:END -->
 
 ## Programming Languages and Tools I use
