@@ -4,8 +4,8 @@
 
 - 👷 I’m currently working on a complete redesign of my personal portfolio and other projects to improve my skills.
 - 👀 I like working with React, Vue, Next js, Gatsby and Node js.
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 😄 I’m looking to collaborate on JavaScript, React, Vue, JAMstack, FullStack development.
+- 🌱 I’m currently learning Flutter and mobile development.
+<!-- - 😄 I’m looking to collaborate on JavaScript, React, Vue, JAMstack, FullStack development. -->
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
