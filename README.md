@@ -2,25 +2,28 @@
 
 # Hi, I'm Sergio <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
+[![wakatime](https://wakatime.com/badge/user/3cbe3c90-aefe-4b06-9cbe-bb590e0a7e56.svg)](https://wakatime.com/@3cbe3c90-aefe-4b06-9cbe-bb590e0a7e56)
+
 - 👷 I’m currently working on a complete redesign of my personal portfolio and other projects to improve my skills.
 - 👀 I like working with React, Vue, Next js, Gatsby and Node js.
-- 🌱 I’m currently learning Flutter and mobile development.
-<!-- - 😄 I’m looking to collaborate on JavaScript, React, Vue, JAMstack, FullStack development. -->
+- 🌱 I’m currently learning cross-platform mobile development with tools like React Native and Flutter.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
 ## More About Me
 
-Hi, I'm Sergio. I've a bachelor's degree on Civil Engineering. I worked as a Civil Engineer for over 6 years before a decided to make some professional changes. I started learning to code back in college creating very simple applications for career related topics. 
+Hi, I'm Sergio. I've a bachelor's degree on Civil Engineering. I worked as a Civil Engineer for over 6 years before a decided to make some professional changes. I started learning to code back in college creating very simple applications for career related topics.
 
-I started learning web development on my free time and after some practice and learning I decided to make a complete turn and start working as a developer full time. 
-
+I started learning web development on my free time and after some practice and learning I decided to make a complete turn and start working as a developer full time.
 
 ## :inbox_tray:Blogging and Writing
+
 Apart from coding, I also mantain my personal blog/portfolio. You can find my articles on my website [sergiobarria.com]
 
 ### Latest Posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [How to link and display your latest blog posts to your Github profile](https://www.sergiobarria.com/blog/how-to-link-and-display-your-latest-blog-post-to-your-github-profile)
 - [How to create and edit your Github profile](https://www.sergiobarria.com/blog/how-to-create-and-edit-your-github-profile)
 - [How to add RSS feed to Next.js site](https://www.sergiobarria.com/blog/how-to-add-rss-feed-to-next-js-site)
@@ -48,20 +51,22 @@ Apart from coding, I also mantain my personal blog/portfolio. You can find my ar
 
 [![Strapi Badge](https://img.shields.io/badge/-strapi-8B71FD?style=for-the-badge&labelColor=black)](#) [![Contenful Badge](https://img.shields.io/badge/-contentful-F3DF21?style=for-the-badge&labelColor=black)](#) [![Sanity Badge](https://img.shields.io/badge/-sanity-E9544F?style=for-the-badge&labelColor=black)](#)
 
-
 ## :chart_with_upwards_trend:General Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sergiobarria&theme=gotham&show_icons=true" alt="sergiobarria" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiobarria&layout=compact&theme=gotham" alt="sergiobarria" /> </p>
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiobarria&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiobarria&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-### Reach me out!:mailbox: 
+<div>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sergiobarria&theme=gotham&show_icons=true" alt="sergiobarria" />
+
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiobarria&layout=compact&theme=gotham" alt="sergiobarria" alt="sergiobarria" />
+
+  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=sergiobarria&v=2" alt="sergiobarria" />
+</div>
+
+### Reach me out!:mailbox:
 
 [![Twitter Badge](https://img.shields.io/badge/-@sergioBarria01-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sergioBarria01)](https://twitter.com/sergioBarria01) [![Linkedin Badge](https://img.shields.io/badge/-Sergio%20Barria-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiobarria/) [![Mail Badge](https://img.shields.io/badge/-Sergio%20Barria-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sbarria.dev@gmail.com)
 
-
-
 <!-- Links definitions -->
+
 [sergiobarria.com]: https://www.sergiobarria.com/
 [twitter]: https://twitter.com/sergioBarria01
 [linkedin]: https://www.linkedin.com/in/sergiobarria/
