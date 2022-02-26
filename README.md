@@ -20,8 +20,9 @@ I started learning web development on my free time and after some practice and l
 
 <p>
   <img alt="javascript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" />
-  <img alt="javascript" src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" />
-  <img alt="javascript" src="https://img.shields.io/badge/-python-3674A7?style=for-the-badge&labelColor=black&logo=python&logoColor=3674A7" />
+  <img alt="typescript" src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" />
+  <img alt="python" src="https://img.shields.io/badge/-python-3674A7?style=for-the-badge&labelColor=black&logo=python&logoColor=3674A7" />
+  <img alt="dart" src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&labelColor=black&logo=dart&logoColor=3674A7" />
 </p>
 
 <p>
@@ -42,7 +43,6 @@ I started learning web development on my free time and after some practice and l
   <img alt="postgresql" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="firebase" src="https://img.shields.io/badge/-firebase-FFCB2D?style=flat-square&logo=firebase&logoColor=white" />
-  <img alt="dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   <img alt="flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="express" src="https://img.shields.io/badge/-Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
   <img alt="react native" src="https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=white" />
