@@ -58,8 +58,10 @@ Apart from coding, I also mantain my personal blog/portfolio. You can find my ar
 
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiobarria&layout=compact&theme=gotham" alt="sergiobarria" alt="sergiobarria" />
 
-  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=sergiobarria&v=2" alt="sergiobarria" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=sergiobarria&layout=compact&theme=gotham&langs_count=6&v=2" alt="sergiobarria" />
 </div>
+
+**Note**: Wakatime stats since Feb 02, 2022
 
 ### Reach me out!:mailbox:
 
