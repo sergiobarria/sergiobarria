@@ -33,23 +33,44 @@ Apart from coding, I also mantain my personal blog/portfolio. You can find my ar
 
 ## Programming Languages and Tools I use
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Python Badge](https://img.shields.io/badge/-python-3674A7?style=for-the-badge&labelColor=black&logo=python&logoColor=3674A7)](#)
+<p>
+  <img alt="javascript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" />
+  <img alt="javascript" src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" />
+  <img alt="javascript" src="https://img.shields.io/badge/-python-3674A7?style=for-the-badge&labelColor=black&logo=python&logoColor=3674A7" />
+</p>
 
-### Markup and Styling
-
-[![HTML Badge](https://img.shields.io/badge/-html-E54C22?style=for-the-badge&labelColor=black&logo=html5&logoColor=E54C22)](#) [![CSS Badge](https://img.shields.io/badge/-css-1672B7?style=for-the-badge&labelColor=black&logo=css3&logoColor=1672B7)](#) [![SASS Badge](https://img.shields.io/badge/-sass-CE679A?style=for-the-badge&labelColor=black&logo=sass&logoColor=CE679A)](#) [![Tailwind Badge](https://img.shields.io/badge/-tailwind-18BAB9?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=18BAB9)](#)
-
-### Frameworks and Additional Tools
-
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Vue Badge](https://img.shields.io/badge/-Vue-41B983?style=for-the-badge&labelColor=black&logo=Vue.js&logoColor=41B983)](#) [![Gatsby Badge](https://img.shields.io/badge/-Gatsby-533885?style=for-the-badge&labelColor=black&logo=gatsby&logoColor=533885)](#) [![Next Badge](https://img.shields.io/badge/-Next-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=ffffff)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Django Badge](https://img.shields.io/badge/-Django-50BE95?style=for-the-badge&labelColor=black&logo=django&logoColor=50BE95)](#)
-
-### Databases
-
-[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-14AA52?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=14AA52)](#) [![Postgres Badge](https://img.shields.io/badge/-postgres-34668F?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=34668F)](#) [![Firebase Badge](https://img.shields.io/badge/-firebase-FFCB2D?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCB2D)](#)
+<p>
+  <img alt="HTML" src="https://img.shields.io/badge/-html-E54C22?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-css-1672B7?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-tailwind-18BAB9?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="vue js" src="https://img.shields.io/badge/-Vue-41B983?style=flat-square&logo=Vue.js&logoColor=white" />
+  <img alt="next js" src="https://img.shields.io/badge/-Next-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="gatsby" src="https://img.shields.io/badge/-Gatsby-533885?style=flat-square&logo=gatsby&logoColor=white" />
+  <img alt="Node js" src="https://img.shields.io/badge/-Nodejs-3C873A?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="django" src="https://img.shields.io/badge/-Django-50BE95?style=flat-square&logo=django&logoColor=white" />
+  <img alt="mongodb" src="https://img.shields.io/badge/-MongoDB-14AA52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="postgresql" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="mysql" src="https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="firebase" src="https://img.shields.io/badge/-firebase-FFCB2D?style=flat-square&logo=firebase&logoColor=white" />
+  <img alt="dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img alt="flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="express" src="https://img.shields.io/badge/-Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
+  <img alt="react native" src="https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=white" />
+</p>
 
 ### Headless CMS
 
-[![Strapi Badge](https://img.shields.io/badge/-strapi-8B71FD?style=for-the-badge&labelColor=black)](#) [![Contenful Badge](https://img.shields.io/badge/-contentful-F3DF21?style=for-the-badge&labelColor=black)](#) [![Sanity Badge](https://img.shields.io/badge/-sanity-E9544F?style=for-the-badge&labelColor=black)](#)
+<p>
+  <img alt="Sanity io" src="https://img.shields.io/badge/-sanity-E9544F?style=for-the-badge&logoColor=white" />
+  <img alt="Sanity io" src="https://img.shields.io/badge/-strapi-8B71FD?style=for-the-badge&logoColor=white" />
+  <img alt="Sanity io" src="https://img.shields.io/badge/-graphcms-1953BB?style=for-the-badge&logoColor=white" />
+  <img alt="Sanity io" src="https://img.shields.io/badge/-contentful-F3DF21?style=for-the-badge&logoColor=white" />
+</p>
 
 ## :chart_with_upwards_trend:General Stats
 
