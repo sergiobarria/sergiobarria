@@ -2,7 +2,10 @@
 
 # Hi, I'm Sergio <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-[![wakatime](https://wakatime.com/badge/user/3cbe3c90-aefe-4b06-9cbe-bb590e0a7e56.svg)](https://wakatime.com/@3cbe3c90-aefe-4b06-9cbe-bb590e0a7e56)
+<p align="center">
+  <img alt="wakatime" src="https://wakatime.com/badge/user/3cbe3c90-aefe-4b06-9cbe-bb590e0a7e56.svg" />
+  <img alt="profile views" src="https://komarev.com/ghpvc/?username=sergiobarria&color=FAC151" />
+</p>
 
 - 👷 I’m currently working on a complete redesign of my personal portfolio and other projects to improve my skills.
 - 👀 I like working with React, Vue, Next js, Gatsby and Node js.
@@ -52,9 +55,9 @@ I started learning web development on my free time and after some practice and l
 
 <p>
   <img alt="Sanity io" src="https://img.shields.io/badge/-sanity-E9544F?style=for-the-badge&logoColor=white" />
-  <img alt="Sanity io" src="https://img.shields.io/badge/-strapi-8B71FD?style=for-the-badge&logoColor=white" />
-  <img alt="Sanity io" src="https://img.shields.io/badge/-graphcms-1953BB?style=for-the-badge&logoColor=white" />
-  <img alt="Sanity io" src="https://img.shields.io/badge/-contentful-F3DF21?style=for-the-badge&logoColor=white" />
+  <img alt="Stapi" src="https://img.shields.io/badge/-strapi-8B71FD?style=for-the-badge&logoColor=white" />
+  <img alt="GraphCMS" src="https://img.shields.io/badge/-graphcms-1953BB?style=for-the-badge&logoColor=white" />
+  <img alt="Contentful" src="https://img.shields.io/badge/-contentful-F3DF21?style=for-the-badge&logoColor=white" />
 </p>
 
 ## :chart_with_upwards_trend:General Stats
@@ -83,6 +86,10 @@ Apart from coding, I also mantain my personal blog/portfolio. You can find my ar
 - [My personal portfolio got some improvements](https://www.sergiobarria.com/blog/my-personal-portfolio-got-some-improvements)
 - [5 Common mistakes beginners make when learning to code](https://www.sergiobarria.com/blog/5-common-mistakes-beginners-make-when-learning-to-code)
 <!-- BLOG-POST-LIST:END -->
+
+## 😂 Here is a random joke that'll make you laugh!
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ### Reach me out!:mailbox:
 
