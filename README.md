@@ -87,10 +87,6 @@ Apart from coding, I also mantain my personal blog/portfolio. You can find my ar
 - [5 Common mistakes beginners make when learning to code](https://www.sergiobarria.com/blog/5-common-mistakes-beginners-make-when-learning-to-code)
 <!-- BLOG-POST-LIST:END -->
 
-## 😂 Here is a random joke that'll make you laugh!
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ### Reach me out!:mailbox:
 
 [![Twitter Badge](https://img.shields.io/badge/-@sergioBarria01-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sergioBarria01)](https://twitter.com/sergioBarria01) [![Linkedin Badge](https://img.shields.io/badge/-Sergio%20Barria-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiobarria/) [![Mail Badge](https://img.shields.io/badge/-Sergio%20Barria-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sbarria.dev@gmail.com)
