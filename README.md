@@ -1,23 +1,23 @@
 <!-- <img src="./banner.png" /> -->
 
-# Hi, I'm Sergio <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hey, I'm Sergio <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 <p align="center">
   <img alt="wakatime" src="https://wakatime.com/badge/user/3cbe3c90-aefe-4b06-9cbe-bb590e0a7e56.svg" />
   <img alt="profile views" src="https://komarev.com/ghpvc/?username=sergiobarria&color=FAC151" />
 </p>
 
-- 👷 I’m currently working on a complete redesign of my personal portfolio and other projects to improve my skills.
-- 👀 I like working with React, Vue, Next js, Gatsby and Node js.
-- 🌱 I’m currently learning cross-platform mobile development with tools like React Native and Flutter.
+I'm a web developer from Panama.
 
-<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
+I have a bachelor's degree in Civil Engineering.
 
-## More About Me
+I like to build things for both front-end and back-end application.
 
-Hi, I'm Sergio. I've a bachelor's degree on Civil Engineering. I worked as a Civil Engineer for over 6 years before a decided to make some professional changes. I started learning to code back in college creating very simple applications for career related topics.
+I started learning to code back in college creating very simple application for career related topics.
 
-I started learning web development on my free time and after some practice and learning I decided to make a complete turn and start working as a developer full time.
+During the start of the 2020 pandemic I stated learning web development with simple HTML, CSS and JavaScript/TypeScript. Later I expanded to learn JavaScript frameworks like React and Vue and .
+
+I'm currently learning [FastAPI](https://fastapi.tiangolo.com/) and [SQLModel](https://sqlmodel.tiangolo.com/) for API's development.
 
 ## Programming Languages and Tools I use
 
@@ -87,12 +87,8 @@ Apart from coding, I also mantain my personal blog/portfolio. You can find my ar
 - [5 Common mistakes beginners make when learning to code](https://www.sergiobarria.com/blog/5-common-mistakes-beginners-make-when-learning-to-code)
 <!-- BLOG-POST-LIST:END -->
 
-### Reach me out!:mailbox:
+### You can find me on:
 
-[![Twitter Badge](https://img.shields.io/badge/-@sergioBarria01-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sergioBarria01)](https://twitter.com/sergioBarria01) [![Linkedin Badge](https://img.shields.io/badge/-Sergio%20Barria-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiobarria/) [![Mail Badge](https://img.shields.io/badge/-Sergio%20Barria-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sbarria.dev@gmail.com)
-
-<!-- Links definitions -->
-
-[sergiobarria.com]: https://www.sergiobarria.com/
-[twitter]: https://twitter.com/sergioBarria01
-[linkedin]: https://www.linkedin.com/in/sergiobarria/
+- My website: [sergiobarria.com](https://www.sergiobarria.com/)
+- Github: [@sergiobarria](https://github.com/sergiobarria)
+- LinkedIn: [@sergiobarria](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)
