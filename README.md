@@ -65,7 +65,7 @@ I'm currently learning [FastAPI](https://fastapi.tiangolo.com/) and [SQLModel](h
 <div>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=sergiobarria&theme=gotham&show_icons=true" alt="sergiobarria" />
 
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiobarria&layout=compact&theme=gotham" alt="sergiobarria" alt="sergiobarria" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiobarria&layout=compact&theme=gotham&langs_count=6" alt="sergiobarria" alt="sergiobarria" />
 
   <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=sergiobarria&layout=compact&theme=gotham&langs_count=6&v=2" alt="sergiobarria" />
 </div>
