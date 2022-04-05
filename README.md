@@ -79,11 +79,11 @@ Apart from coding, I also mantain my personal blog/portfolio. You can find my ar
 ### Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FastAPI Tutorial &lpar;Part 2&rpar; - Routes](https://www.sergiobarria.com/blog/fastapi-tutorial-part-2-routes)
 - [FastAPI Tutorial &lpar;Part 1&rpar; - The Basics](https://www.sergiobarria.com/blog/fastapi-tutorial-part-1-the-basics)
 - [How to link and display your latest blog posts to your Github profile](https://www.sergiobarria.com/blog/how-to-link-and-display-your-latest-blog-posts-to-your-github-profile)
 - [How to create and edit your Github profile](https://www.sergiobarria.com/blog/how-to-create-and-edit-your-github-profile)
 - [How to add RSS feed to Next.js site](https://www.sergiobarria.com/blog/how-to-add-rss-feed-to-nextjs-site)
-- [My personal portfolio got some improvements](https://www.sergiobarria.com/blog/my-personal-portfolio-got-some-improvements)
 <!-- BLOG-POST-LIST:END -->
 
 ### You can find me on:
