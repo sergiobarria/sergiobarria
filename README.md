@@ -13,9 +13,9 @@ I have a bachelor's degree in Civil Engineering.
 
 I like to build things for both front-end and back-end application.
 
-I started learning to code back in college creating very simple application for career related topics.
+I started learning to code back in college creating very simple applications for career related topics.
 
-During the start of the 2020 pandemic I stated learning web development with simple HTML, CSS and JavaScript/TypeScript. Later I expanded to learn JavaScript frameworks like React and Vue and .
+During the start of the 2020 pandemic I stated learning web development with simple HTML, CSS and JavaScript/TypeScript. Later I expanded to learn JavaScript frameworks like React and Vue.
 
 I'm currently learning [FastAPI](https://fastapi.tiangolo.com/) and [SQLModel](https://sqlmodel.tiangolo.com/) for API's development.
 
