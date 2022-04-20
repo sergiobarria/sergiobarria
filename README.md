@@ -15,7 +15,7 @@ I like to build things for both front-end and back-end application.
 
 I started learning to code back in college creating very simple applications for career related topics.
 
-During the start of the 2020 pandemic I stated learning web development with simple HTML, CSS and JavaScript/TypeScript. Later I expanded to learn JavaScript frameworks like React and Vue.
+A few years back I stated learning web development with simple HTML, CSS and JavaScript/TypeScript. Later I expanded to learn JavaScript frameworks like React and Vue. After that I got curious about working with back-end services so I started learning Node.js.
 
 I'm currently learning [FastAPI](https://fastapi.tiangolo.com/) and [SQLModel](https://sqlmodel.tiangolo.com/) for API's development.
 
@@ -79,6 +79,7 @@ Apart from coding, I also mantain my personal blog/portfolio. You can find my ar
 ### Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [FastAPI Tutorial &lpar;Part 2&rpar; - Routes](https://www.sergiobarria.com/blog/fastapi-tutorial-part-2-routes)
 - [FastAPI Tutorial &lpar;Part 1&rpar; - The Basics](https://www.sergiobarria.com/blog/fastapi-tutorial-part-1-the-basics)
 - [How to link and display your latest blog posts to your Github profile](https://www.sergiobarria.com/blog/how-to-link-and-display-your-latest-blog-posts-to-your-github-profile)
