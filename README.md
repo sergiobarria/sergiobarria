@@ -7,7 +7,7 @@
   <img alt="profile views" src="https://komarev.com/ghpvc/?username=sergiobarria&color=FAC151" />
 </p>
 
-I'm a web developer from Panama.
+I'm a full-stack web developer from Panama.
 
 I have a bachelor's degree in Civil Engineering.
 
@@ -15,7 +15,7 @@ I like to build things for both front-end and back-end application.
 
 I started learning to code back in college creating very simple applications for career related topics.
 
-A few years back I stated learning web development with simple HTML, CSS and JavaScript/TypeScript. Later I expanded to learn JavaScript frameworks like React and Vue. After that I got curious about working with back-end services so I started learning Node.js.
+A few years back I started learning web development with simple HTML, CSS and JavaScript/TypeScript. Later I expanded to learn JavaScript frameworks like React and Vue. After that I got curious about working with back-end services so I started learning Node.js.
 
 I'm currently learning [FastAPI](https://fastapi.tiangolo.com/) and [SQLModel](https://sqlmodel.tiangolo.com/) for API's development.
 
