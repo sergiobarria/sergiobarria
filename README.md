@@ -7,7 +7,7 @@
   <img alt="profile views" src="https://komarev.com/ghpvc/?username=sergiobarria&color=FAC151" />
 </p>
 
-I'm a full-stack web developer from Panama.
+I'm a full-stack web & mobile developer from Panama.
 
 I have a bachelor's degree in Civil Engineering.
 
