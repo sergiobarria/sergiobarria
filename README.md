@@ -17,9 +17,9 @@ I started learning to code back in college creating very simple applications for
 
 A few years back, I started learning web development with simple HTML, CSS and JavaScript/TypeScript. Later I expanded to learn JavaScript frameworks like React and Vue. After that I got curious about working with back-end services so I started learning Node.js.
 
-I'm currently learning [FastAPI](https://fastapi.tiangolo.com/) and [SQLModel](https://sqlmodel.tiangolo.com/) for API's development.
+I would like to learn more about backend development next.
 
-I would like to learn more about backend development next (maybe Go?).
+I'm currently learning Golang.
 
 ## Programming Languages and Tools I use
 
