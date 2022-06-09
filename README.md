@@ -19,7 +19,7 @@ A few years back, I started learning web development with simple HTML, CSS and J
 
 I would like to learn more about backend development next.
 
-I'm currently learning Golang.
+I'm currently learning Golang & Docker.
 
 ## Programming Languages and Tools I use
 
